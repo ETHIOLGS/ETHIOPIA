@@ -1,0 +1,9 @@
+.mar1 {
+    color: antiquewhite;
+    background-color: black;
+    width: 100px;
+    height: 10px;
+    font-size: xx-small;
+    box-shadow: 13px 13px 13px black;
+    border-radius: 12px;
+}
